@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: true
-picture: https://cdn.jsdelivr.net/gh/udinxyz/aset.udin.xyz/udinxyz.png
+picture: https://cdn.jsdelivr.net/gh/udinxyz/aset.udin.xyz/img/udinxyz-bg.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -60,7 +60,7 @@ authors:
     name: Mang Udin
     bio: Tukang Teuing.
     external-image: true
-    picture: https://cdn.jsdelivr.net/gh/udinxyz/aset.udin.xyz/udinxyz.png
+    picture: https://cdn.jsdelivr.net/gh/udinxyz/aset.udin.xyz/img/udinxyz-bg.png
     twitter: #
 
 # do you want a larger site? change the option below
