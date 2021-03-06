@@ -30,8 +30,11 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: mydisqus # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+  shortname: 
+  categories: 
+# shortname: mydisqus # enter this from your disqus account
+# categories: [blog, project] # only show disqus for posts that have these categories
+
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
@@ -50,21 +53,15 @@ github: udinxyz
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: udin@sent.com
 
 authors:
-  johndoe:
+  udinxyz:
     name: Mang Udin
     bio: Tukang Teuing.
-    external-image: false
-    picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+    external-image: true
+    picture: https://cdn.jsdelivr.net/gh/udinxyz/aset.udin.xyz/udinxyz.png
+    twitter: #
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
